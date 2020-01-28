@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML App", "ML App.csproj", "{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Debug|x64.ActiveCfg = Debug|x64
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Debug|x64.Build.0 = Debug|x64
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Release|x64.ActiveCfg = Release|x64
+		{60D63AE7-FA50-4627-A9DF-B9E4AC7930DF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26755727-0FC0-430F-BAEE-FF1C7604A5B9}
+	EndGlobalSection
+EndGlobal

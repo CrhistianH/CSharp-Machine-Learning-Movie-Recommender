@@ -1,0 +1,29 @@
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\ML App.exe
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\ML App.pdb
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\LdaNative.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\CpuMathNative.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.Buffers.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.CodeDom.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.Memory.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\EdwinHigareda\source\repos\ML App\obj\x64\Debug\ML App.csprojAssemblyReference.cache
+C:\Users\EdwinHigareda\source\repos\ML App\obj\x64\Debug\ML App.csproj.CopyComplete
+C:\Users\EdwinHigareda\source\repos\ML App\obj\x64\Debug\ML App.exe
+C:\Users\EdwinHigareda\source\repos\ML App\obj\x64\Debug\ML App.pdb
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Data\recommendation-ratings-test.csv
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Data\recommendation-ratings-train.csv
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\MatrixFactorizationNative.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Microsoft.ML.Recommender.dll
+C:\Users\EdwinHigareda\source\repos\ML App\bin\x64\Debug\Data\recommendation-movies.csv
